@@ -42,7 +42,10 @@ test
 
 ![Ancient Skeleton Animation Showreel](https://user-images.githubusercontent.com/116592885/208311618-fcff51b0-354c-4018-8459-8c431544684e.gif)
 
-![Skeleton Idle](https://user-images.githubusercontent.com/116592885/208311684-d6d008d4-03c6-436f-94d8-c9b40306cfb6.gif)
+![Skeleton Idle](https://user-images.githubusercontent.com/116592885/208311684-d6d008d4-03c6-436f-94d8-c9b40306cfb6.gif)![Skeleton Walk](https://user-images.githubusercontent.com/116592885/208312335-c7eefa33-815d-40bb-801e-29a777dd3031.gif)![Skeleton React](https://user-images.githubusercontent.com/116592885/208312339-d4120a7f-5ab9-4d42-8500-a68054e01fac.gif)![Skeleton Attack](https://user-images.githubusercontent.com/116592885/208312305-9f4f78e9-f7dd-4ec7-aeec-d411e1e858be.gif)![Skeleton Hit](https://user-images.githubusercontent.com/116592885/208312309-64a103c2-4265-4163-a166-6f3b943af82c.gif)![Skeleton Dead](https://user-images.githubusercontent.com/116592885/208312310-9e9715ae-9163-4cc3-9e8c-548edb83b374.gif)
+
+
+
 
  -World Interactions - Blocking Movement.
  

@@ -89,6 +89,8 @@ C = Projectile.
  -Camera - Cinemachine.
 
 Όσον αφορά την κάμερα πρόσθεσα ενα πλέγμα στο περιβάλλον για να ορίσω τα όρια της.
+(CameraConfiner)
+
 Τέλος έβαλα PixelPerfect(Script) ελπίζοντας σε μια πιο καθαρή εικόνα inGame.
 
 

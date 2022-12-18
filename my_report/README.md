@@ -62,6 +62,8 @@ test
 
  -World Interactions - Damage Zones and Enemies. 
  
+ Τοποθέτησα (RigidBody/Collider)2D και όταν ο χαρακτήρας έρχεται σε επαφή με τους αντίπαλους σκελετούς δέχεται damage παρόλο που δεν υπαρχουν τα animations ακόμα.
+ 
  ![image](https://user-images.githubusercontent.com/116592885/208311577-c70cac61-365f-4dc1-845f-f8e0e42a36bc.png)
  
  ![image](https://user-images.githubusercontent.com/116592885/208311591-fc31e021-033f-48fe-afe1-7a1725611778.png)
@@ -70,14 +72,24 @@ test
 
 
 
+
  -Sprite Animation
+ 
+ Υπάρχει ένα glitch στην κίνηση του χαρακτήρα, το οποίο ευθύνεται στο flip animation/MovementTree.
+ 
+ Melee/Damage/Death animations θα ξαναπροσθεθούν μόλις κατασταλάξω σε Assets.
+ 
+ Μέχρι τώρα οι σκελετοί παραμένουν ακίνητοι στο σημείο που δέχθηκαν το τελειωτικό χτύπημα.
+  
+ 
 
  -World Interactions - Projectile .
+C = Projectile.
 
  -Camera - Cinemachine.
 
 Όσον αφορά την κάμερα πρόσθεσα ενα πλέγμα στο περιβάλλον για να ορίσω τα όρια της.
-Έβαλα επιπλέον
+Τέλος έβαλα PixelPerfect(Script) ελπίζοντας σε μια πιο καθαρή εικόνα inGame.
 
 
 

@@ -33,6 +33,50 @@ test
 
 # 2nd Deliverable
 
+Το παιχνίδι άλλαξε διότι δημιουργήθηκε ένα πρόβλημα με ένα απο τα GameObjects στα prefabs.
+
+Ξεκίνησα νέο project με διαφορετικά assets ταιριαστά για top-down.
+
+Παρακάτω βλέπουμε τον χαρακτήρα και τους αντιπάλους αντίστοιχα.
+
+
+![Ancient Skeleton Animation Showreel](https://user-images.githubusercontent.com/116592885/208311618-fcff51b0-354c-4018-8459-8c431544684e.gif)
+
+![Skeleton Idle](https://user-images.githubusercontent.com/116592885/208311684-d6d008d4-03c6-436f-94d8-c9b40306cfb6.gif)
+
+ -World Interactions - Blocking Movement.
+ 
+ Αφού δημιούργησα το περιβάλλον τοποθέτησα ενα πλαίσιο ώστε να μην μπόρει να υπερβεί τα όρια η κάμερα και βγεί εκτός.
+ 
+ ![image](https://user-images.githubusercontent.com/116592885/208311512-cfff7549-f735-4552-86f5-f49fbfb85340.png)
+ ![image](https://user-images.githubusercontent.com/116592885/208311550-c922e6fa-4af1-4378-876b-c2634da69371.png)
+ 
+ Έπειτα πρόσθεσα colliders του περιβάλλοντος για τους χαρακτήρες.
+
+![image](https://user-images.githubusercontent.com/116592885/208311530-6514d8c3-cf7b-434e-8046-608cf03b4018.png)
+
+
+
+ -World Interactions - Damage Zones and Enemies. 
+ 
+ ![image](https://user-images.githubusercontent.com/116592885/208311577-c70cac61-365f-4dc1-845f-f8e0e42a36bc.png)
+ 
+ ![image](https://user-images.githubusercontent.com/116592885/208311591-fc31e021-033f-48fe-afe1-7a1725611778.png)
+ 
+![image](https://user-images.githubusercontent.com/116592885/208311596-d932cf25-1aa2-4f1f-98bd-a7d2f85c9142.png)
+
+
+
+ -Sprite Animation
+
+ -World Interactions - Projectile .
+
+ -Camera - Cinemachine.
+
+Όσον αφορά την κάμερα πρόσθεσα ενα πλέγμα στο περιβάλλον για να ορίσω τα όρια της.
+Έβαλα επιπλέον
+
+
 
 # 3rd Deliverable 
 
